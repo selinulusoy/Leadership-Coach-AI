@@ -1,0 +1,11 @@
+gradio
+openai
+sentence-transformers
+pgvector
+psycopg2-binary
+pytubefix
+langchain
+python-dotenv
+duckduckgo-search
+beautifulsoup4
+requests
